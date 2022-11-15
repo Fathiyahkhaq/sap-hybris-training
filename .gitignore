@@ -1,0 +1,6 @@
+log/**
+roles/**
+temp/**
+data/**
+bin/platform/**
+bin/modules/**
